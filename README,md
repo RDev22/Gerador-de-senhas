@@ -1,0 +1,29 @@
+#Gerador de senhas 🔒
+
+---
+
+##📖Sobre
+
+<p>Esse projeto foi desenvolvido para criar um gerador de senhas simples e automatico.
+
+<h3>💻Como Funciona</h3>
+
+<p>O usuário seleciona a quantidade de caracteres da senha e o programa gera uma senha aletória com a quantidade de caracteres desejada. As senhas serão geradas com letras maiusculas, minusculas e números.</p>
+
+---
+
+<h2>🖥Preview</h2>
+
+<img src="redme_img\senha desktop.png" alt="Previw desktop"></img>
+<br>
+<br>
+
+
+
+---
+
+<h2>🛠 Tecnologias</h2>
+
+- [HTML](https://html.com/)
+- [JavaScript](https://www.javascript.com/)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
